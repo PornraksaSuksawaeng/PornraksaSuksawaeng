@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pornraksa Suksawaeng</h1>
+<h1 align="left">Hi 👋, I'm Pornraksa Suksawaeng</h1>
 
 - 🔭 I’m currently working on [AideEducation](https://aideeducation.fr/) and [AIPDA](https://aipda-design.org/)
 
